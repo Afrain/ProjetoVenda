@@ -16,14 +16,16 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 ## Tecnologias utilizadas
 
 ### Back-end
-[JAVA 11](https://www.java.com/pt-BR/)<br>
-[SPRING BOOT 2.7.2](https://spring.io/projects/spring-boot/)
-[FLYWAY](https://flywaydb.org/)
-[Postgresql](https://www.postgresql.org/)
-[Lombok](https://projectlombok.org/)
+[Java 11](https://www.java.com/pt-BR/)<br>
+[Spring Boot 2.7.2](https://spring.io/projects/spring-boot/)<br>
+[Flyway](https://flywaydb.org/)<br>
+[Postgresql](https://www.postgresql.org/)<br>
+[Lombok](https://projectlombok.org/)<br>
 
 ### Front-end
-Angular 11, Angular Material 11, flex-layout 11
+[Angular 11](https://angular.io/)
+[Angular Material 11](https://material.angular.io/)
+[flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)
 
 ### Utilitários
 
