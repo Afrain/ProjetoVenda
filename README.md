@@ -4,14 +4,14 @@
 ## 💻Sobre o projeto
 Projeto desenvolvido para atestar os conhecimentos com algumas tecnologias na criação de aplicações web.
 
-## Funcionalidades
+## 🕹️Funcionalidades
 
 Os usuários tem acesso a aplicação web, onde podem acessar:
 * <b>CLIENTES</b>: Onde é feito o cadastro, edição, exclusão e a listagem dos clientes.
 * <b>PRODUTOS</b>: Onde é feito o cadastro, edição, exclusão e a listagem dos produtos.
 * <b>VENDAS</b>: Onde é feito o cadastro, edição, exclusão e a listagem das vendas.  
 
-## Layout
+## 🎬Layout
 
 Client List
 
