@@ -57,7 +57,7 @@ Sale form
 * Postman
 * Visual Studio Code
 
-## Status do projeto
+## ⏳Status do projeto
 * Em desenvolvimento
 
 ## ⚙️Como executar o projeto
