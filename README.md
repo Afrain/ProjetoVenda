@@ -49,7 +49,7 @@ Sale form
 ### Front-end
 * [Angular 11](https://angular.io/)
 * [Angular Material 11](https://material.angular.io/)
-* [flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)
+* [Flex-Layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)
 
 ### Utilitários
 
