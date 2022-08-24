@@ -34,7 +34,10 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 
 ## Como executar o projeto
 
+### Back-end
 ```bash
+# Baixe e instale o banco de dados PostgreSQL em https://www.postgresql.org/download/
+# Cria o banco de dados com o nome sale-api
 # Clone este repositório
 $ git clone https://github.com/Afrain/ProjetoVenda.git
 
