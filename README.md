@@ -16,7 +16,11 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 ## Tecnologias utilizadas
 
 ### Back-end
-Java 11, spring boot 2.7.2, flyway, Postgresql 13, Lombok;
+[JAVA 11](https://www.java.com/pt-BR/)
+[SPRING BOOT 2.7.2](https://spring.io/projects/spring-boot/)
+[FLYWAY](https://flywaydb.org/)
+[Postgresql](https://www.postgresql.org/)
+[Lombok](https://projectlombok.org/)
 
 ### Front-end
 Angular 11, Angular Material 11, flex-layout 11
