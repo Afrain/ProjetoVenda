@@ -1,6 +1,5 @@
-<h1 align="center">README.md</h1>
 
-## SALE APP (Aplicação de vendas)
+![Venda Api](https://user-images.githubusercontent.com/9250787/186289306-72ce9c50-bbeb-4084-842d-da90514f91fa.png)
 
 ## Descrição
 Projeto desenvolvido para atestar os conhecimentos com algumas tecnologias na criação de aplicações web.
