@@ -29,6 +29,10 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 
 ### Utilitários
 
+Eclipse IDE
+Postman
+Visual Studio Code
+
 ## Status do projeto
 * Em desenvolvimento
 
