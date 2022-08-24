@@ -62,6 +62,17 @@ Sale form
 
 ## Como executar o projeto
 
+Este projeto é divido em duas partes:
+
+Backend (pasta Projeto Java Back-end)
+Frontend (pasta Projeto Angular Front-end)
+
+O Frontend precisa que o Backend esteja sendo executado para funcionar.
+
+### Pré-Requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download/), [JDK 1.8.0](https://www.oracle.com/java/technologies/downloads/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/download).
+
 ### Back-end
 ```bash
 # Baixe e instale o banco de dados PostgreSQL em https://www.postgresql.org/download/
