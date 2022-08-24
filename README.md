@@ -16,7 +16,7 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 ## Tecnologias utilizadas
 
 ### Back-end
-[JAVA 11](https://www.java.com/pt-BR/)
+[JAVA 11](https://www.java.com/pt-BR/)<br>
 [SPRING BOOT 2.7.2](https://spring.io/projects/spring-boot/)
 [FLYWAY](https://flywaydb.org/)
 [Postgresql](https://www.postgresql.org/)
