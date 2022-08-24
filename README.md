@@ -16,22 +16,22 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 ## Tecnologias utilizadas
 
 ### Back-end
-[Java 11](https://www.java.com/pt-BR/)<br>
-[Spring Boot 2.7.2](https://spring.io/projects/spring-boot/)<br>
-[Flyway](https://flywaydb.org/)<br>
-[Postgresql](https://www.postgresql.org/)<br>
-[Lombok](https://projectlombok.org/)<br>
+* [Java 11](https://www.java.com/pt-BR/)
+* [Spring Boot 2.7.2](https://spring.io/projects/spring-boot/)
+* [Flyway](https://flywaydb.org/)
+* [Postgresql](https://www.postgresql.org/)
+* [Lombok](https://projectlombok.org/)
 
 ### Front-end
-[Angular 11](https://angular.io/)<br>
-[Angular Material 11](https://material.angular.io/)<br>
-[flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)<br>
+* [Angular 11](https://angular.io/)
+* [Angular Material 11](https://material.angular.io/)
+* [flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)
 
 ### Utilitários
 
-Eclipse IDE
-Postman
-Visual Studio Code
+* Eclipse IDE
+* Postman
+* Visual Studio Code
 
 ## Status do projeto
 * Em desenvolvimento
