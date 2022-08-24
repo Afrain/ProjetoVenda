@@ -1,0 +1,12 @@
+CREATE TABLE client(
+	id serial CONSTRAINT id_cliente PRIMARY KEY,
+	name varchar(100) NOT NULL,
+	email varchar(100) NOT NULL,
+	birth DATE
+);
+
+INSERT INTO client (name, email, birth) VALUES ('AFRAIN DA SILVA CALIXTO', 'CALIXTO@GMAIL.COM', '1993-12-07');
+INSERT INTO client (name, email, birth) VALUES ('LARISSA DA SILVA CALIXTO', 'LARISSA@GMAIL.COM', '2001-07-15');
+INSERT INTO client (name, email, birth) VALUES ('ANTONIO DA SILVA CALIXTO', 'ANTONIO@GMAIL.COM', '2005-07-07');
+INSERT INTO client (name, email, birth) VALUES ('EDIVAN DA SILVA CALIXTO', 'EDIVAN@GMAIL.COM', '1975-10-24');
+INSERT INTO client (name, email, birth) VALUES ('SELMA DA SILVA CALIXTO', 'SELMA@GMAIL.COM', '1975-12-07');

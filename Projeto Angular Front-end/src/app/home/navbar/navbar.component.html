@@ -1,0 +1,26 @@
+<mat-toolbar color="primary">
+  <button mat-icon-button class="example-icon" [matMenuTriggerFor]="menu"
+    aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <mat-menu #menu="matMenu">
+    <a mat-menu-item routerLink="client" routerLinkActive="routerActive">
+      <mat-icon>person</mat-icon>
+      <span>Clients</span>
+    </a>
+    <a mat-menu-item routerLink="product" routerLinkActive="routerActive">
+      <mat-icon>apps</mat-icon>
+      <span>Products</span>
+    </a>
+    <a mat-menu-item routerLink="sale" routerLinkActive="routerActive">
+      <mat-icon>shopping_cart</mat-icon>
+      <span>Sales</span>
+    </a>
+  </mat-menu>
+  <span>Sale App</span>
+  <span class="example-spacer"></span>
+  <button mat-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>logout</mat-icon>
+    Logout
+  </button>
+</mat-toolbar>
