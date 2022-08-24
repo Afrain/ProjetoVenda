@@ -92,7 +92,28 @@ $ java -jar ProjetoJavaVendaApi.jar
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 ```
 
-## Pré-requisitos
+### Front-end
+```bash
+# Clone este repositório
+$ git clone https://github.com/Afrain/ProjetoVenda.git
 
-## Build
+# Acesse a pasta do projeto no VSCODE
+$ cd ProjetoVenda
 
+# Vá para a pasta server
+$ cd Projeto Angular Front-end
+
+# execute o comando para baixar as dependências
+$ npm install
+
+# execute o comando
+$ ng serve
+
+# O servidor inciará na porta:4200 - acesse http://localhost:4200
+```
+
+## Autor
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
