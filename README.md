@@ -29,6 +29,14 @@ Product form
 
 ![FormProduct](https://user-images.githubusercontent.com/9250787/186420155-9a3a6a4e-e075-4793-af3d-10be9bf882dc.PNG)
 
+Sale List
+
+![SaleList](https://user-images.githubusercontent.com/9250787/186425361-fa8abc7a-e14d-49a5-84df-9ea2cdcaa79f.PNG)
+
+Sale form
+
+![SaleForm](https://user-images.githubusercontent.com/9250787/186425396-8d3b892e-9500-47fd-916b-eb142fd5e3d1.PNG)
+
 ## Tecnologias utilizadas
 
 ### Back-end
