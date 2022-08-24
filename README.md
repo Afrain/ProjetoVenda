@@ -60,7 +60,7 @@ Sale form
 ## Status do projeto
 * Em desenvolvimento
 
-## Como executar o projeto
+## ⚙️Como executar o projeto
 
 Este projeto é divido em duas partes:
 
@@ -112,7 +112,7 @@ $ ng serve
 # O servidor inciará na porta:4200 - acesse http://localhost:4200
 ```
 
-## Autor
+## 🧑‍💻Autor
 ![Foto perfil Pequena](https://user-images.githubusercontent.com/9250787/186436828-99f03d1d-8ac2-4903-bbf5-6ddc1a9b2243.png)<br>
 Afrain Calixto
 
