@@ -1,7 +1,7 @@
 
 ![Venda Api](https://user-images.githubusercontent.com/9250787/186289306-72ce9c50-bbeb-4084-842d-da90514f91fa.png)
 
-## Sobre o projeto
+## 💻Sobre o projeto
 Projeto desenvolvido para atestar os conhecimentos com algumas tecnologias na criação de aplicações web.
 
 ## Funcionalidades
@@ -37,7 +37,7 @@ Sale form
 
 ![SaleForm](https://user-images.githubusercontent.com/9250787/186425396-8d3b892e-9500-47fd-916b-eb142fd5e3d1.PNG)
 
-## Tecnologias utilizadas
+## 🛠️Tecnologias utilizadas
 
 ### Back-end
 * [Java 11](https://www.java.com/pt-BR/)
