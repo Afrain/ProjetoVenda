@@ -15,13 +15,13 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 
 ## Tecnologias utilizadas
 
-# BACK-END
+### Back-end
 Java 11, spring boot 2.7.2, flyway, Postgresql 13, Lombok;
 
-# FRONT END
+### Front-end
 Angular 11, Angular Material 11, flex-layout 11
 
-# Utilitários
+### Utilitários
 
 ## Status do projeto
 * Em desenvolvimento
