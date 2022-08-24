@@ -28,6 +28,25 @@ Angular 11, Angular Material 11, flex-layout 11
 
 ## Como executar o projeto
 
+```bash
+# Clone este repositório
+$ git clone https://github.com/Afrain/ProjetoVenda.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd ProjetoVenda
+
+# Vá para a pasta server
+$ cd Projeto Java Back-end\target
+
+# Instale as dependências
+$ java -jar 
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:8080 - acesse http://localhost:8080
+```
+
 ## Pré-requisitos
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
