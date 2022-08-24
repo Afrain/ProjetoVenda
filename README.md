@@ -13,6 +13,22 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 
 ## Layout
 
+Client List
+
+![ListClient](https://user-images.githubusercontent.com/9250787/186418793-174d9a40-0feb-4052-a86b-197e1cb9e45c.PNG)
+
+Client Form
+
+![FormClient](https://user-images.githubusercontent.com/9250787/186419490-c51b6ff8-7a45-4288-9b6c-4155ffacfde7.PNG)
+
+Product List
+
+![ListProducts](https://user-images.githubusercontent.com/9250787/186419946-19cdcf67-06eb-46fe-b01e-b937021b00e2.PNG)
+
+Product form
+
+![FormProduct](https://user-images.githubusercontent.com/9250787/186420155-9a3a6a4e-e075-4793-af3d-10be9bf882dc.PNG)
+
 ## Tecnologias utilizadas
 
 ### Back-end
