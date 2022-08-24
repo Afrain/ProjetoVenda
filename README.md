@@ -23,9 +23,9 @@ Os usuários tem acesso a aplicação web, onde podem acessar:
 [Lombok](https://projectlombok.org/)<br>
 
 ### Front-end
-[Angular 11](https://angular.io/)
-[Angular Material 11](https://material.angular.io/)
-[flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)
+[Angular 11](https://angular.io/)<br>
+[Angular Material 11](https://material.angular.io/)<br>
+[flex-layout 11](https://tburleson-layouts-demos.firebaseapp.com/#/docs/)<br>
 
 ### Utilitários
 
