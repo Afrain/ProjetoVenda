@@ -38,11 +38,8 @@ $ cd ProjetoVenda
 # Vá para a pasta server
 $ cd Projeto Java Back-end\target
 
-# Instale as dependências
-$ java -jar 
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# execute o comando
+$ java -jar ProjetoJavaVendaApi.jar
 
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 ```
